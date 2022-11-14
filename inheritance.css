@@ -1,0 +1,19 @@
+.hobbies{
+    color: red;
+    border-style: groove;
+    padding: 5px;
+    margin: 3px;
+}
+
+#like{
+    color: blue;
+}
+
+#passion{
+    color: gold;
+    padding: 3px;
+}
+
+.dislike{
+    color: purple;
+}
